@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these notebooks, please cite them as below."
+message: "https://github.com/marcohof/RG-NJL-EoS-tables"
 authors:
   - family-names: Gholami
     given-names: Hosein
