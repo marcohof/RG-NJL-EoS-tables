@@ -3,15 +3,9 @@ message: "If you use these notebooks, please cite them as below."
 authors:
   - family-names: Gholami
     given-names: Hosein
-  - family-names: Rather
-    given-names: Ishfaq
   - family-names: Hofmann
     given-names: Marco
-  - family-names: Buballa
-    given-names: Michael
-  - family-names: Schaffner-Bielich
-    given-names: Jürgen
-title: "Astrophysical constraints on color-superconducting phases in compact stars within the RG-consistent NJL model"
+title: "RG-NJL-EoS-tables"
 license: MIT
 url: "https://github.com/marcohof/RG-NJL-EoS-tables"
 repository-code: "https://github.com/marcohof/RG-NJL-EoS-tables"
